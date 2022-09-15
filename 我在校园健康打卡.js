@@ -13,7 +13,7 @@ const headers = {
 'Content-Type' : `application/json;charset=UTF-8`,
 'Origin' : `https://gw.wozaixiaoyuan.com`,
 'User-Agent' : `Mozilla/5.0 (iPhone; CPU iPhone OS 15_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.26(0x18001a34) NetType/WIFI Language/zh_CN miniProgram/wxce6d08f781975d91`,
-'Cookie' : `JWSESSION=bb1ba039dd6f4c0dab56c839cc74cb53`,
+'Cookie' : `JWSESSION=填你的`,
 'Host' : `gw.wozaixiaoyuan.com`,
 'Referer' : `https://gw.wozaixiaoyuan.com/h5/mobile/health/index/health/detail?id=5000001`,
 'Accept-Language' : `zh-CN,zh-Hans;q=0.9`,
