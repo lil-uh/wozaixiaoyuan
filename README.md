@@ -13,4 +13,7 @@ https://www.icloud.com/shortcuts/c20afae4f527416b8abe36129205c8c9
 https://www.icloud.com/shortcuts/b684ab1839e843a8a49fed254362859a
 健康打卡
 
+https://www.icloud.com/shortcuts/dbae6aa00dab4db7ac91ea4f99da9f37
+晚签（目前过去的都能签）
+
 可以参考改成python配合服务器
