@@ -23,4 +23,6 @@ https://www.icloud.com/shortcuts/f9a8dce549e54679b605794211defad1
 
 解决了每次打卡都要重新获取一次jwsession的问题
 
+修改自B站up 欢喜糖伈
+
 作者tg:@lil_uh
