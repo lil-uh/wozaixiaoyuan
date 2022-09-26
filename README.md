@@ -15,7 +15,7 @@ https://www.icloud.com/shortcuts/ed42c755561c4f948da05425507a3710
 
 健康打卡
 
-https://www.icloud.com/shortcuts/02f7a3b7acd24c409d6f7cc433eb5c2c
+https://www.icloud.com/shortcuts/7d50e70dc4234077a48ffbf6c35bb852
 
 晚签(理论上过去的都能签)
 
