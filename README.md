@@ -11,11 +11,11 @@ https://www.icloud.com/shortcuts/74b9859bbb5e436c8db94bfd593ce8a3
 
 储存jwsession
 
-https://www.icloud.com/shortcuts/ed42c755561c4f948da05425507a3710
+https://www.icloud.com/shortcuts/7d50e70dc4234077a48ffbf6c35bb852
 
 健康打卡
 
-https://www.icloud.com/shortcuts/7d50e70dc4234077a48ffbf6c35bb852
+https://www.icloud.com/shortcuts/837ec5dd937c444cbaff8d60184277df
 
 晚签(理论上过去的都能签)
 
